@@ -1,4 +1,3 @@
-# aplikasi wishlist buku
 wishlist = []  # Daftar kosong untuk menyimpan wishlist buku
 
 # Fungsi untuk menambahkan buku ke wishlist
